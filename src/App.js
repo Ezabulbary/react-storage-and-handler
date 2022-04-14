@@ -5,8 +5,7 @@ import Shoes from './component/Shoes/Shoes';
 function App() {
   return (
     <div className="App">
-      <Cosmetics></Cosmetics>
-      <Shoes></Shoes>
+        <Cosmetics></Cosmetics>
     </div>
   );
 }
