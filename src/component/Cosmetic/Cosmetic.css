@@ -1,0 +1,13 @@
+.product{
+    border: 3px solid antiquewhite;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    background-color: darkturquoise;
+
+}
+#product{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
